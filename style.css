@@ -159,6 +159,7 @@ body{
     column-gap: 2rem;
     white-space: nowrap;
     justify-items: center;
+    justify-content: center;
 }
 
 
